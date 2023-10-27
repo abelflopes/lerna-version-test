@@ -1,0 +1,13 @@
+{
+  "name": "@abelflopes/lerna-version-test-calc",
+  "private": false,
+  "version": "1.0.0",
+  "homepage": "https://github.com/abelflopes/lerna-monorepo-template#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abelflopes/lerna-monorepo-template.git"
+  },
+  "dependencies": {
+    "@abelflopes/lerna-version-test-sum": "^1.0.0"
+  }
+}
