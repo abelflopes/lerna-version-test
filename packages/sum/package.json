@@ -1,10 +1,13 @@
 {
   "name": "@abelflopes/lerna-version-test-sum",
   "private": false,
+  "keywords": [
+    "abc"
+  ],
   "version": "1.0.0",
-  "homepage": "https://github.com/abelflopes/lerna-monorepo-template#readme",
+  "homepage": "https://github.com/abelflopes/lerna-version-test#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abelflopes/lerna-monorepo-template.git"
+    "url": "git+https://github.com/abelflopes/lerna-version-test.git"
   }
 }

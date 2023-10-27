@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "conventional-changelog-conventionalcommits": "^7.0.2",
     "lerna": "^7.4.1"
   },
   "workspaces": [
